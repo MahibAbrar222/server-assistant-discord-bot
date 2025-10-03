@@ -3,3 +3,9 @@
 /servers.json
 /profile.png
 /test.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.temp/
+test.png
